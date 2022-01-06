@@ -5,7 +5,8 @@
 - 🤔 I’m looking for help with my **sleep** duration.
 - 📫 How to reach me via: **[mail](hotra.alexander@gmail.com) or [LinkedIn](https://www.linkedin.com/in/alexander-hotra-1831b5221/)**
 - ⚡ Fun fact: **10+** years working in a nightclub as f&b manager.
-- (https://www.codewars.com/users/chillhaze/badges/micro?theme=light)
+- ![alt text](https://www.codewars.com/users/chillhaze/badges/micro?theme=light)
+ 
 
 
 ### My stack and tools
