@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on smth interesting.
-- 🌱 I’m currently learning **JS, ReactJS, NodeJS and everithing around.**
+- 🔭 I’m currently trying to get a job.
+- 🌱 I’m currently learning **JS, ReactJS, NodeJS and everything around.**
 - 🤔 I’m looking for help with my **sleep** duration.
-- 💬 Ask me about any alcohol drink or cocktail.
 - 📫 How to reach me via: **[mail](hotra.alexander@gmail.com) or [LinkedIn](https://www.linkedin.com/in/alexander-hotra-1831b5221/)**
 - ⚡ Fun fact: **10+** years working in a nightclub as f&b manager.
 
