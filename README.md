@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently trying to get a job.
-- 🌱 I’m currently learning **JS, ReactJS, NodeJS and everything around.**
-- 🤔 I’m looking for help with my **sleep** duration.
-- 📫 How to reach me via: **[mail](hotra.alexander@gmail.com) or [LinkedIn](https://www.linkedin.com/in/alexander-hotra-1831b5221/)**
-- ⚡ Fun fact: **10+** years working in a nightclub as f&b manager.
+- 🔭 I’m currently working with Next.js.
+- 🌱 I’m currently learning **JS, ReactJS, TypeScript, NodeJS and everything around.**
+- 📫 How to reach me via: **[Telegram](https://t.me/chill_haze/)**
 - ![alt text](https://www.codewars.com/users/chillhaze/badges/micro?theme=dark)
  
 
